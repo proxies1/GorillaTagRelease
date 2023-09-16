@@ -1,4 +1,3 @@
-# GorillaTag
-Release versions of Gorilla Tag
-
-uhhh dont rob me, this is mine, i dunno if thats a real license
+# Gorilla Tag Releases
+Hello! This is the older Gorilla Tag releases from Lemming.
+Download and sideload the APK via SideQuest to get nostaligic.
