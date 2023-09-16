@@ -1,4 +1,5 @@
-# GorillaTag
-Release versions of Gorilla Tag
+# Gorilla Tag Older Versions
+Older Release versions of Gorilla Tag
 
-uhhh dont rob me, this is mine, i dunno if thats a real license
+Here is the older versions of Gorilla Tag originally released by Lemming.
+Download and load it with SideQuest for nostaliga.
